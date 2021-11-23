@@ -2,6 +2,8 @@
 
 The fullstack application to managing tasks.
 
+![Zdjęcie](./images/screen.jpg)
+
 ## Technologies
 
 * [Node.js](https://nodejs.org/en/)
@@ -35,6 +37,8 @@ and
 # Zlecenia
 
 Aplikacja umożliwiająca zarządzenianie zleceniami.
+
+![Zdjęcie](./images/screen.jpg)
 
 ## Użyte technologie
 

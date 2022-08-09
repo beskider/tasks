@@ -2,7 +2,7 @@
 
 The fullstack application to managing tasks.
 
-![Zdjęcie](./images/screen.jpg)
+![Image](./images/screen.jpg)
 
 ## Technologies
 

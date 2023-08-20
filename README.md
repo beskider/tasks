@@ -25,6 +25,7 @@ and
 
 ```
     $./cd backend 
+    $./docker compose up -d    
     $./npm start
 ```
 ```
@@ -61,6 +62,7 @@ oraz
 
 ```
     $./cd backend 
+    $./docker compose up -d
     $./npm start
 ```
 ```
